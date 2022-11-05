@@ -1,5 +1,5 @@
 {
-    "name": "laravelcollective/remote",
+    "name": "mycools/remote",
     "description": "Remote SSH access for The Laravel Framework.",
     "license": "MIT",
     "homepage": "http://laravelcollective.com",
@@ -15,6 +15,10 @@
         {
             "name": "Tom Shafer",
             "email": "tj@tjshafer.com"
+        },
+        {
+            "name": "Jarak Kritkiattisak",
+            "email": "jarak.krit@gmail.com"
         }
     ],
     "require": {
